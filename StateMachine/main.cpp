@@ -1,4 +1,6 @@
-// 
+// A simple text based game that demonstrates a state machine design pattern project for UWGB Computer Science Fall semester, 2020.
+// Reads a game level consisting of integer values from a fileand plays a game according to the states
+
 #include <iostream>
 #include <string.h>
 #include "FileIO.h"
