@@ -31,7 +31,7 @@ const char* Object_Types[GAME_OBJECT_COUNT] =
 const int Object_State_Types[GAME_OBJECT_COUNT] = 
 { WALK, RUN, SNEAK, JUMP, CLIMB, EAT, JUMP, CLIMB,START,END };
 
-// GameState abstract state
+// GameState abstract state 
 class GameState
 {
 public:
